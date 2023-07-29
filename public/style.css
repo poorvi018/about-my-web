@@ -1,0 +1,45 @@
+.grid-color{
+background-color:white;
+height:300px;
+}
+.name{
+    text-align: center;
+    color:black;
+}
+.aim{
+    text-align: center;
+    color:crimson;
+}
+.title-img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:90%;
+}
+.fontstyle{
+    font-family: 'Pangolin', cursive;
+    font-family: 'PT Serif', serif;
+}
+p
+{
+text-align: center;
+}
+.grid-color1{
+    background-color: plum;
+}
+.web{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border:10px solid black;
+}
+.Hi{
+    text-align: center;
+}
+#arrange{
+   float:right;
+   margin-top: 10px;
+}
+h3,h4{
+    font-size:20px;
+}
